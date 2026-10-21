@@ -8,3 +8,5 @@ def main():
 	
 if __name__ == "__main__":
 	main()
+
+#archivo de inicio, crea un objeto de la clase aplicación
